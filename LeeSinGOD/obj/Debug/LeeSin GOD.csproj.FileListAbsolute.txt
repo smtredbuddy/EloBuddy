@@ -1,0 +1,5 @@
+C:\Users\loleo\Desktop\EB\LeeSin GOD\bin\Debug\LeeSin.exe.config
+C:\Users\loleo\Desktop\EB\LeeSin GOD\bin\Debug\LeeSin.exe
+C:\Users\loleo\Desktop\EB\LeeSin GOD\bin\Debug\LeeSin.pdb
+C:\Users\loleo\Desktop\EB\LeeSin GOD\obj\Debug\LeeSin.exe
+C:\Users\loleo\Desktop\EB\LeeSin GOD\obj\Debug\LeeSin.pdb
