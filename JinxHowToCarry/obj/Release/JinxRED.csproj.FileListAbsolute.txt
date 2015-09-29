@@ -1,0 +1,11 @@
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\bin\Release\PewPewJinx.exe.config
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\bin\Release\PewPewJinx.exe
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\bin\Release\PewPewJinx.pdb
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\bin\Release\EloBuddy.dll
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\bin\Release\EloBuddy.SDK.dll
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\bin\Release\SharpDX.dll
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\bin\Release\Newtonsoft.Json.dll
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\obj\Release\PewPewJinx.csprojResolveAssemblyReference.cache
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\obj\Release\PewPewJinx.exe
+C:\Users\loleo\AppData\Roaming\EloBuddy\Repositories\F029F44D\PewPewJinx\obj\Release\PewPewJinx.pdb

@@ -1,0 +1,11 @@
+C:\Users\loleo\Desktop\jINX\bin\Release\JinxRED.exe.config
+C:\Users\loleo\Desktop\jINX\bin\Release\JinxRED.exe
+C:\Users\loleo\Desktop\jINX\bin\Release\JinxRED.pdb
+C:\Users\loleo\Desktop\jINX\bin\Release\EloBuddy.dll
+C:\Users\loleo\Desktop\jINX\bin\Release\EloBuddy.SDK.dll
+C:\Users\loleo\Desktop\jINX\bin\Release\SharpDX.dll
+C:\Users\loleo\Desktop\jINX\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\loleo\Desktop\jINX\bin\Release\Newtonsoft.Json.dll
+C:\Users\loleo\Desktop\jINX\obj\Debug\JinxRED.csprojResolveAssemblyReference.cache
+C:\Users\loleo\Desktop\jINX\obj\Debug\JinxRED.exe
+C:\Users\loleo\Desktop\jINX\obj\Debug\JinxRED.pdb
